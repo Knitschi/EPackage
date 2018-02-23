@@ -1,10 +1,10 @@
 #pragma once
 
-#include <BPackage/b_export.h>
+#include <EPackage/e_export.h>
 
-namespace b
+namespace e
 {
-    B_EXPORT void bFunction();
+    E_EXPORT void eFunction();
 }
 namespace{} 
 namespace{} 

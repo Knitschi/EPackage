@@ -1,7 +1,7 @@
 include(cpfAddPackage)
 
 # define namespace name for module
-set( PACKAGE_NAMESPACE d )
+set( PACKAGE_NAMESPACE e )
 
 set( briefDescription "An empty C++ libary used for testing the CPF" )
 set( longDescription "" )
@@ -14,8 +14,8 @@ cpfInitPackageProject(
 ############################################## Define code files ###################################################
 
 set( PACKAGE_PRODUCTION_FILES
-	d.cpp
-	d.h
+	e.cpp
+	e.h
 )
 
 set( PACKAGE_FIXTURE_FILES
