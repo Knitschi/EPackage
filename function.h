@@ -4,5 +4,5 @@
 
 namespace e
 {
-    E_EXPORT void eFunction();
+    E_EXPORT void function();
 }
