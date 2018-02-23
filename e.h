@@ -6,12 +6,3 @@ namespace e
 {
     E_EXPORT void eFunction();
 }
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
