@@ -1,8 +1,8 @@
-#include <DPackage/d.h>
+#include <EPackage/d.h>
 
-namespace d
+namespace e
 {
-    void dFunction()
+    void eFunction()
     {
         
     }
