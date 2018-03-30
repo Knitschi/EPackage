@@ -8,14 +8,3 @@ namespace e
     }
 }
 
-
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
-namespace{} 
