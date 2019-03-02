@@ -2,7 +2,6 @@
 
 #include <EPackage/e_export.h>
 
-namespace e
-{
-    E_EXPORT void function();
+namespace e {
+E_EXPORT void function();
 }
