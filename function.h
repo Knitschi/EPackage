@@ -1,8 +1,8 @@
 #pragma once
 
-#include <EPackage/e_export.h>
+#include <EPackage/epackage_export.h>
 
 namespace e
 {
-	E_EXPORT void function();
+	EPACKAGE_EXPORT void function();
 }
